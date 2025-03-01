@@ -1,0 +1,113 @@
+.bg-white {
+    background-color: #fff;
+  }
+  @media only screen and (min-width: 1600px) {
+    /* .first-container-main-wrp {
+      position: relative;
+      background-image: url("./assets/banner_girl_cut.png");
+      background-repeat: no-repeat;
+      background-position: right bottom;
+      
+      background-size: auto 100%;
+    }
+  
+    .first-container {
+      max-width: 1400px;
+      margin: auto;
+    }
+    .first-container .fir-c-left {
+      padding-left: 25px;
+    }
+    .first-container .fir-c-right {
+      display: none;
+    } */
+    .first-container .fir-c-left {
+      padding-left: 20vw;
+    }
+  }
+  .eighth-container .ei-c-bottom {
+    max-width: 900px;
+    margin: auto;
+  }
+  @media only screen and (min-width: 1440px) {
+    header {
+      max-width: 1440px;
+      margin: auto;
+      left: 50%;
+      transform: translate(-50%, 0);
+    }
+    .footer-wrapper {
+      max-width: 1440px;
+      width: 100%;
+      padding-left: 0px;
+    }
+    /* .first-container .fir-c-left .fir-c-left-wrp {
+      width: 55%;
+    } */
+  
+    .seventh-container .sev-c-timeline {
+      max-width: 1440px;
+      margin: auto;
+    }
+    .sixth-container-wrp {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    .sixth-container-wrp .sixth-container {
+      max-width: 1440px;
+      margin: auto;
+    }
+    .fifth-container-wrp {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    .fifth-container-wrp .fifth-container {
+      max-width: 1440px;
+      margin: auto;
+    }
+    .fourth-container-wrp {
+      width: 100%;
+      background-color: #fff9f4;
+      display: flex;
+      justify-content: center;
+    }
+    .fourth-container-wrp .fourth-container {
+      max-width: 1440px;
+      margin: auto;
+    }
+    .second-container-main.high-resolution-fix {
+      max-width: 1100px;
+      margin: auto;
+    }
+    .third-container-main-wrapper.high-resolution-fix {
+      max-width: 1440px;
+      margin: auto;
+    }
+    .sixth-container {
+      position: relative;
+    }
+  }
+  @media only screen and (min-width: 1180px) {
+    .si-c-left img,
+    .fo-c-right img {
+      object-fit: contain !important;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .fi-c-header > div {
+      width: 80%;
+      margin: auto;
+    }
+    .f-c-image-wrapper {
+      /* height: 55%; */
+      width: 244px !important;
+      height: 277px !important;
+    }
+    .f-c-image-wrapper img {
+      object-fit: contain;
+    }
+  }
+  

@@ -1,0 +1,37 @@
+/* :root {
+  font-family: Poppins,sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  margin: 0;
+}
+
+a {
+  font-weight: 500;
+  color: #C6A66E;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #C6A66E;
+}
+
+body {
+  margin: 0;
+}
+
+@media (max-width:993px) {
+  .services-section {
+    padding: 500px 0 0 0 !important;
+}
+  
+} */
